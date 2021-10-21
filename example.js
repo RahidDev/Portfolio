@@ -2,6 +2,8 @@ let Days = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunda
 
 let dayNumber = 6;
 
+alert('CHOOSE A NUMBER PRICK');
+
 if (dayNumber === 0) {
   console.log(Days[0]);
 }
