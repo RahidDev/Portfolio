@@ -1,3 +1,3 @@
-let Days = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
+let dayNumber = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
 
-console.log(Days);
+alert('RIP')
