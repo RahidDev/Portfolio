@@ -1,6 +1,6 @@
 let Days = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
 
-let dayNumber = 6;
+let dayNumber = Math.floor(Math.random(0,6)*10);
 
 alert('CHOOSE A NUMBER PRICK');
 
