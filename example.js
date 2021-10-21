@@ -1,7 +1,7 @@
 let Days = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
 
 let dayNumber = Math.floor(Math.random(0,6)*10);
-
+console.log(dayNumber)
 alert('CHOOSE A NUMBER PRICK');
 
 if (dayNumber === 0) {
