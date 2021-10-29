@@ -11,3 +11,12 @@
     background-size: cover;
     background-position: center;
 }
+
+.emoji
+{
+    width: 40%;
+    height: 40vh;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75),rgba(0,0,0,0.75)),url(Emoji.jpg);
+    background-size: cover;
+    background-position: center;
+}
