@@ -7,7 +7,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.75),rgba(0,0,0,0.75)),url(Underconstructions.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75),rgba(0,0,0,0.75)),url(Background.png);
     background-size: cover;
     background-position: center;
 }
